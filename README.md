@@ -13,7 +13,9 @@ This project highly depends on many APIs so to run it you must first:
 ### `.env sample`
 
 REACT_APP_GOOGLE_API_KEY= your key
+
 REACT_APP_FIREBASE_API_KEY= your key
+
 REACT_APP_TRAVEL_API_KEY = your key
 
 ### how to run
